@@ -1,0 +1,18 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Note taking app made with with express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "OlhaMyndziv",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
